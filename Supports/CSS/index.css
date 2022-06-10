@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri&display=swap');
+
+:root{
+    --main-font: 'Hind Siliguri';
+}
+
+/*----- Colors Start -----*/
+.clr-teal{
+    background-color: rgb(47, 72, 98);
+}
+/*Colors End*/
+
+/*Alignments*/
+/* .my-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-row-evenly{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+} */
